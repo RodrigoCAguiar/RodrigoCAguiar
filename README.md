@@ -9,3 +9,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCAguiar&layout=compact&theme=monokai&langs_count=" />
 </a>
+
+<br>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
