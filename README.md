@@ -1,5 +1,5 @@
 # Oi, meu nome é Rodrigo Aguiar!
-### Sou estudante de Análise e Desenvolvimento de Sistemas e um grande fã de futebol!
+### Front-end developer working towards mastering the art of Javascript!
   
   <div>
     <div style="display: inline_block"><br>
