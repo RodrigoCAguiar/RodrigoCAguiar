@@ -24,7 +24,6 @@
 <img align="center" alt="css" src="https://shields.io/badge/-CSS-051224?style=flat&logo=css3"/>
 <img align="center" alt="reactjs" src="https://shields.io/badge/-React-051224?style=flat&logo=react"/>
 <img align="center" alt="python" src="https://shields.io/badge/-Python-051224?style=flat&logo=python"/>
-<br>
 <img align="center" alt="Git" src="https://shields.io/badge/-Git-051224?style=flat&logo=git"/>
 <img align="center" alt="github" src="https://shields.io/badge/-GitHub-051224?style=flat&logo=github"/>
 <img align="center" alt="mardown" src="https://shields.io/badge/-Visual%20Studio%20Code-051224?style=flat&logo=visual-studio-code"/>
